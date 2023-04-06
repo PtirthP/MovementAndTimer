@@ -1,0 +1,16 @@
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\bin\Debug\MovementAndTimer.exe.config
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\bin\Debug\MovementAndTimer.exe
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\bin\Debug\MovementAndTimer.pdb
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer.csproj.AssemblyReference.cache
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer.csproj.SuggestedBindingRedirects.cache
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MainWindow.g.cs
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\App.g.cs
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer_MarkupCompile.cache
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer_MarkupCompile.lref
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MainWindow.baml
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer.g.resources
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer.Properties.Resources.resources
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer.csproj.GenerateResource.cache
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer.csproj.CoreCompileInputs.cache
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer.exe
+D:\College\IST 331\MovementAndTimer\MovementAndTimer\obj\Debug\MovementAndTimer.pdb
